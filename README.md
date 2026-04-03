@@ -14,6 +14,16 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
+### Sumário:
+- [Planejamento da disciplina](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-distribuidas/tree/main/PLANEJAMENTO%20DA%20DISCIPLINA)
+
+#### Links úteis:
+
+##### Calendário Acadêmico
+- 📅 [Calendário Acadêmico 2026 - PUC Minas](https://github.com/user-attachments/files/24117753/calendario-academico-2026.pdf)
+
+-----
+
 ##### 📊 Tendências e pesquisas
 
 ###### 📈 Relatórios e estudos sobre o mercado de tecnologia e comportamento de desenvolvedores  
