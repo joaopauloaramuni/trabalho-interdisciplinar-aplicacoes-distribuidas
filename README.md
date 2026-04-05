@@ -24,6 +24,51 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### Calendário Acadêmico
 - 📅 [Calendário Acadêmico 2026 - PUC Minas](https://github.com/user-attachments/files/24117753/calendario-academico-2026.pdf)
 
+##### Template de agenda Lean Inception  
+- 📎 [Template de agenda Lean Inception](https://caroli.org/agenda-lean-inception/)
+
+##### O que é uma Lean Inception?  
+- 📖 [O que é uma Lean Inception?](https://caroli.org/livro/lean-inception-como-alinhar-pessoas-e-construir-o-produto-certo/)
+
+##### Cartografia Social: Lean Inception  
+- 🧭 [Cartografia Social: Lean Inception](https://fga-eps-mds.github.io/2021-2-Cartografia-social-Doc/leanInception/)
+
+##### Lean Inception na Prática com Paulo Caroli  
+- 🎯 [Lean Inception na Prática com Paulo Caroli](https://caroli.org/training/treinamento-lean-inception-na-pratica/)
+
+-----
+
+#### 💻 Conteúdo Geral:
+
+Na disciplina de TIS 5 iremos utilizar o Github Classroom. Para que tudo ocorra bem, vocês precisarão se familiarizar um pouco mais com a plataforma do Github. A Mira Empresa Júnior organizou no semestre passado uma série de minicursos, e um deles foi o Mini-curso de Git, Github e Gitflow, apresentado pelo excelente aluno Bruno Marini. O curso ficou muito claro e didático. Vocês podem assistir ao curso a seguir. O link para o curso também pode ser encontrado no site do Microsoft Stream.
+
+##### 🎥 Workshop: Git, GitHub e GitFlow  
+- 👉 [Workshop: Git, GitHub e GitFlow](https://www.youtube.com/watch?v=dwDpRi4LU-s&t=2s)
+
+Este é um minicurso de Gerência de Projetos com o Github Projects e o Zenhub.
+
+##### 🎥 Workshop: Gestão de Tarefas com GitHub Projects e ZenHub  
+- 👉 [Workshop: Gestão de Tarefas com GitHub Projects e ZenHub](https://www.youtube.com/watch?v=jYFSmdpI0ko&t=2s)
+
+##### 📄 Documentação - Wrinting on Github Links to an external site.  
+- 👉 [https://docs.github.com/en/get-started/writing-on-github](https://docs.github.com/en/get-started/writing-on-github)
+
+-----
+
+#### 📝 Autoavaliação e Avaliação por Pares
+
+##### 1️⃣
+
+Você deverá preencher o formulário de Autoavaliação da participação. O formulário pode ser acessado pelo link do Office 365:  
+👉 [https://forms.office.com/r/EuQK5cmhKNLinks to an external site.](https://forms.office.com/r/EuQK5cmhKNLinks)
+
+-----
+
+##### 2️⃣
+
+Você também deverá preencher o formulário de Avaliação dos pares. Você deverá responder o formulário para cada colega integrante do seu grupo. Por exemplo, Se o seu grupo possui 4 integrantes (você e mais 3 colegas), você deverá preencher este formulário 3 vezes. Se o seu colega desistiu da disciplina, você também deve responder o formulário, pois isso é importante para podermos diagnosticar e buscar entender o problema. O formulário pode ser acessado pelo link do Office 365:  
+👉 [https://forms.office.com/r/zSixhergBhLinks to an external site.](https://forms.office.com/r/zSixhergBhLinks)
+
 -----
 
 ##### 📊 Tendências e pesquisas
