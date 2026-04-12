@@ -24,6 +24,141 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### Calendário Acadêmico
 - 📅 [Calendário Acadêmico 2026 - PUC Minas](https://github.com/user-attachments/files/24117753/calendario-academico-2026.pdf)
 
+##### 📚 Referências gerais
+
+###### 🌐 Aplicações Distribuídas
+
+- 📕 [Designing Distributed Systems – Brendan Burns](https://www.amazon.com.br/Designing-Distributed-Systems-Brendan-Burns/dp/1491983647)
+  Apresenta padrões reutilizáveis para construção de sistemas distribuídos confiáveis, escaláveis e observáveis, com exemplos baseados em contêineres.
+
+- 📘 [Distributed Systems: Principles and Paradigms – Andrew S. Tanenbaum, Maarten Van Steen](https://www.amazon.com.br/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/153028175X)
+  Obra de referência que cobre os fundamentos teóricos e práticos de sistemas distribuídos, incluindo comunicação, consistência, replicação e tolerância a falhas.
+
+- 📗 [Building Microservices – Sam Newman](https://www.amazon.com.br/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)
+  Referência essencial para arquiteturas baseadas em microsserviços, abordando decomposição de serviços, comunicação, deploy e observabilidade.
+
+- 📙 [Microservices Patterns – Chris Richardson](https://www.amazon.com.br/Microservice-Patterns-examples-Chris-Richardson/dp/1617294543)
+  Apresenta padrões consolidados para desenvolvimento e operação de microsserviços, como Saga, CQRS, API Gateway e Circuit Breaker.
+
+- 📒 [Kafka: The Definitive Guide – Neha Narkhede, Gwen Shapira, Todd Palino](https://www.amazon.com.br/Kafka-Definitive-Real-Time-Stream-Processing/dp/1492043087)
+  Guia completo sobre Apache Kafka para processamento de mensagens em tempo real, cobrindo produtores, consumidores, streams e arquitetura de eventos.
+
+- 📔 [Designing Data-Intensive Applications – Martin Kleppmann](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+  Explora os fundamentos de sistemas que lidam com grandes volumes de dados, incluindo bancos distribuídos, replicação, consistência e processamento de fluxo.
+
+- 📕 [Cloud Native Patterns – Cornelia Davis](https://www.amazon.com.br/Cloud-Native-Patterns-Cornelia-Davis/dp/1617294296)
+  Aborda padrões e práticas para construção de aplicações nativas em nuvem, com foco em resiliência, escalabilidade e automação.
+
+- 📂 [awesome-distributed-systems (GitHub)](https://github.com/theanalyst/awesome-distributed-systems)
+  Repositório curado com artigos, livros, ferramentas e recursos sobre sistemas distribuídos.
+
+-----
+
+###### 📱 Mobile
+
+- 📕 [Android Programming: The Big Nerd Ranch Guide – Bill Phillips, Chris Stewart](https://www.amazon.com.br/Android-Programming-Nerd-Ranch-Guide/dp/0135245125)
+  Guia prático e abrangente para desenvolvimento Android, cobrindo desde os fundamentos até recursos avançados com Kotlin e Jetpack.
+
+- 📘 [iOS Programming: The Big Nerd Ranch Guide – Christian Keur, Aaron Hillegass](https://www.amazon.com.br/iOS-Programming-Ranch-Guide-Guides/dp/0135264022)
+  Referência consolidada para desenvolvimento iOS com Swift, abordando UIKit, Auto Layout e padrões de projeto aplicados ao ecossistema Apple.
+
+- 📗 [Flutter in Action – Eric Windmill](https://www.amazon.com.br/Flutter-Action-Eric-Windmill/dp/1617296147)
+  Aborda o desenvolvimento de aplicações multiplataforma com Flutter e Dart, desde os fundamentos do framework até a publicação nas lojas.
+
+- 📙 [React Native in Action – Nader Dabit](https://www.amazon.com.br/React-Native-Action-Nader-Dabit/dp/1617294055)
+  Guia completo para criação de apps híbridos com React Native, cobrindo componentes nativos, navegação, integração com APIs e publicação.
+
+- 📒 [Programming Flutter – Carmine Zaccagnino](https://www.amazon.com.br/Programming-Flutter-Native-Cross-Platform-Apps/dp/1680506951)
+  Explora a criação de interfaces responsivas e aplicações nativas com Flutter, com foco em boas práticas de arquitetura e estado.
+
+- 📂 [awesome-flutter (GitHub)](https://github.com/Solido/awesome-flutter)
+  Coleção curada de bibliotecas, ferramentas, tutoriais e exemplos para desenvolvimento com Flutter.
+
+-----
+
+###### 📌 Conceituação de Projeto de Software
+
+- 📕 [Software Engineering – Ian Sommerville](https://www.amazon.com.br/Engenharia-Software-Ian-Sommerville/dp/8543024978)  
+  Obra clássica que aborda de forma abrangente os principais conceitos, processos e práticas da engenharia de software, amplamente utilizada em cursos e na indústria.
+
+- 📘 [Engenharia de Software Moderna - Marco Tulio Valente](https://engsoftmoderna.info/)  
+  Livro gratuito e atualizado que trata da engenharia de software com foco em práticas modernas, como integração contínua, microserviços e DevOps, com exemplos em Java e Python.
+   
+   - 🎵 [Podcast / Audiobook no Spotify](https://open.spotify.com/show/4yEKBtRMbtwLtgXP8Gq0Fa)  
+     Engenharia de Software Moderna está também disponível no formato de podcast, com resumos de seções do livro gerados por IA por meio do NotebookLM do Google.
+
+- 📙 [Análise e Projeto de Sistemas – Alan Dennis, Barbara Haley Wixom, Roberta M. Roth](https://www.amazon.com.br/An%C3%A1lise-Projeto-Sistemas-Alan-Dennis/dp/852162509X)  
+  Livro que aborda metodologias e técnicas modernas para análise e projeto de sistemas, incluindo modelagem de processos, requisitos e diagramas UML, com forte aplicação prática em projetos reais.
+
+- 📚 [IEEE SWEBOK – Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering)  
+  - [PDF](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais/blob/main/SWEBOK/swebok-v4.pdf) - Guia oficial do IEEE que organiza e descreve o corpo de conhecimento essencial da engenharia de software, servindo como referência para profissionais, educadores e certificações.
+
+###### 🏛️ Arquitetura de Software
+
+- 🧠 [Blog - Martin Fowler](https://martinfowler.com/)
+- 📕 [Patterns of Enterprise Application Architecture - Martin Fowler](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+- 📕 [Refactoring: Improving the Design of Existing Code - Martin Fowler](https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Design-C%C3%B3digos-Existentes/dp/8575227246)
+- 📄 [Blog - Clean Architecture - Robert C. Martin (Uncle Bob)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)  
+- 📙 [Clean Architecture – Robert C. Martin (Uncle Bob)](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606)
+- 📘 [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions - Gregor Hohpe, Bobby Woolf](https://www.amazon.com.br/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
+- 📔 [Introdução à Arquitetura de Design de Software – Paulo Silveira, Guilherme Silveira, Fabio Kung, Guilherme Moreira](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Arquitetura-Design-Software/dp/8535250298)
+- 📙 [Designing Software Architectures – Humberto Cervantes & Rick Kazman](https://www.amazon.com.br/Designing-Software-Architectures-Humberto-Cervantes/dp/0138108021)  
+- 📗 [Software Architecture in Practice – Len Bass, Paul Clements, Rick Kazman](https://www.amazon.com.br/Software-Architecture-Practice-Len-Bass/dp/0136886094)
+- 📒 [Fundamentals of Software Architecture – Mark Richards & Neal Ford](https://www.amazon.com.br/Fundamentos-Arquitetura-Software-Abordagem-Engenharia/dp/8550819859)
+- 📄 [Architectural Styles and the Design of Network-based Software Architectures – Roy Fielding (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)  
+- 📂 [awesome-software-architecture (GitHub)](https://github.com/simskij/awesome-software-architecture)
+- 🛰️ [Thoughtworks Technology Radar](https://www.thoughtworks.com/pt-br/radar)
+  - [PDF - Volume 32 - Abril/2025](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Thoughtworks-Technology-Radar-vol-32-pt.pdf)
+
+###### 🖼️ Modelagem Estrutural e Comportamental
+
+- 📙 [Princípios de Análise e Projeto de Sistemas com UML - Eduardo Bezerra](https://www.amazon.com.br/Princ%C3%ADpios-An%C3%A1lise-Projetos-Sistemas-com/dp/8535226265)
+- 📘 [UML Distilled – Martin Fowler](https://www.amazon.com.br/UML-Distilled-Standard-Modeling-Language/dp/0321193687)
+- 📕 [UML Essencial - Martin Fowler](https://www.amazon.com/UML-Essencial-Linguagem-Padrao-Modelagem-Portuguese-ebook/dp/B019IQOFRK)
+- 📒 [Applying UML and Patterns – Craig Larman](https://www.amazon.com.br/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
+- 📗 [Fundamentos Do Desenho Orientado A Objeto Com UML - Jones Meilir Page](https://www.amazon.com.br/Fundamentos-Desenho-Orientado-Objeto-Com/dp/8534612439)
+- 📖 [UML Diagram Types - Visual Paradigm (guia ilustrado)](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-diagram-types/)
+
+###### 📐 Padrões de Projeto
+
+- 📕 [Design Patterns: Elements of Reusable Object-Oriented Software – GoF (Gamma, Helm, Johnson, Vlissides)](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- 📘 [Head First Design Patterns – Eric Freeman & Elisabeth Robson](https://www.amazon.com.br/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
+- 📗 [Domain-Driven Design Distilled - Vaughn Vernon](https://www.amazon.com.br/Domain-driven-Design-Destilado-Vaughn-Vernon/dp/8550821241)
+- 📂 [design-patterns-for-humans (Explicações simples)](https://github.com/kamranahmedse/design-patterns-for-humans)  
+- 📦 [Refactoring.Guru – Exemplos em múltiplas linguagens](https://github.com/RefactoringGuru)
+
+###### ✔️ Qualidade de Projeto
+
+- 📕 [Code Complete – Steve McConnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+- 📘 [Clean Code – Robert C. Martin](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675)
+- 📔 [The Clean Coder – Robert C. Martin](https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476)
+- 📗 [Design It! – Michael Keeling](https://www.amazon.com.br/Design-Micahel-Keeling/dp/1680502093)
+- 📂 [awesome-static-analysis](https://github.com/analysis-tools-dev/static-analysis)  
+
+-----
+
+##### 📖 Periódicos científicos
+- 🗞️ [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
+- 🧪 [Journal of Software Maintenance and Evolution (ACM)](https://dl.acm.org/journal/jsme)
+- 📈 [Journal of Software: Evolution and Process (Wiley)](https://onlinelibrary.wiley.com/journal/20477481)
+- 📄 [IEEE Software - Measuring Software Quality](https://ieeexplore.ieee.org/document/544241)
+- 📖 [IEEE - Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+- 📦 [Requirements Engineering - Springer](https://link.springer.com/journal/766)
+
+-----
+
+##### 🛠️ Ferramentas de desenho e diagramas
+- 🖼️ [Draw.io (Diagramas)](https://drawio.com/)
+- 🎓 [Astah - Licença gratuita para estudantes](https://astah.net/products/free-student-license/)
+- 📐 [PlantUML - Diagramas UML](https://plantuml.com/)
+- 📖 [PlantUML - Guia oficial](https://plantuml.com/guide)
+- 🎨 [Figma](https://www.figma.com/pt-br/)
+- 🧩 [C4 Model – Modelo para visualização de arquitetura de software](https://c4model.com/)
+
+-----
+
+#### 🔗 Links Complementares
+
 ##### Template de agenda Lean Inception  
 - 📎 [Template de agenda Lean Inception](https://caroli.org/agenda-lean-inception/)
 
