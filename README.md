@@ -71,6 +71,20 @@ Você também deverá preencher o formulário de Avaliação dos pares. Você de
 
 -----
 
+##### 📊 Tendências e pesquisas
+
+###### 📈 Relatórios e estudos sobre o mercado de tecnologia e comportamento de desenvolvedores  
+Relatórios anuais e pesquisas globais ajudam a entender as principais linguagens, ferramentas, salários, preferências e tendências no mercado de desenvolvimento de software. São ótimos para orientar decisões de carreira e identificar habilidades em alta.
+
+- [DevSkiller Report 2025](https://devskiller.com/it-skills-report/)
+  - [PDF - DevSkiller Future Skills Report 2025](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/DevSkiller-Future-Skills-Report-2025.pdf)
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/)
+- [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/2024/)
+- [JetBrains Developer Ecosystem 2024](https://www.jetbrains.com/pt-br/lp/devecosystem-2024/)
+- [GitHub Octoverse 2024](https://github.blog/news-insights/octoverse/octoverse-2024/)
+
+-----
+
 ##### Organização no GitHub
 As organizações abaixo incluem Trabalhos Interdisciplinares (TIs) e Trabalhos de Conclusão de Curso (TCCs) desenvolvidos pelos alunos do Curso de Engenharia de Software, da Pontifícia Universidade Católica de Minas Gerais.
 Os melhores TIs encontram-se publicamente disponíveis na [Revista SPRINTI](https://sprinti.pucminas.br) e os TCCs estão disponíveis no [catálogo](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue) do curso.
@@ -111,17 +125,91 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 -----
 
-##### 📊 Tendências e pesquisas
+#### 🗓️ Trabalhos de TI5:
 
-###### 📈 Relatórios e estudos sobre o mercado de tecnologia e comportamento de desenvolvedores  
-Relatórios anuais e pesquisas globais ajudam a entender as principais linguagens, ferramentas, salários, preferências e tendências no mercado de desenvolvimento de software. São ótimos para orientar decisões de carreira e identificar habilidades em alta.
+##### 📅 1°Sem 2026:
+- [PPL ES 2026-1 TI5 - UpFit](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-upfit)
+- [PPL ES 2026-1 TI5 - VoltShare](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-voltshare)
+- [PPL ES 2026-1 TI5 - Biblioo](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-biblioo)
+- [PPL ES 2026-1 TI5 - Queima](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-queima)
+- [PPL ES 2026-1 TI5 - Splitlar](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-splitlar)
+- [PPL ES 2026-1 TI5 - FlyCenter](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-flycenter)
+- [PPL ES 2026-1 TI5 - Nos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-nos)
+- [PPL ES 2026-1 TI5 - Partiu](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-partiu)
+- [PPL ES 2026-1 TI5 - AgroLink](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-agrolink)
+- [PPL ES 2026-1 TI5 - Reciclo](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-grupo-1-reciclo)
 
-- [DevSkiller Report 2025](https://devskiller.com/it-skills-report/)
-  - [PDF - DevSkiller Future Skills Report 2025](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/DevSkiller-Future-Skills-Report-2025.pdf)
-- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/)
-- [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/2024/)
-- [JetBrains Developer Ecosystem 2024](https://www.jetbrains.com/pt-br/lp/devecosystem-2024/)
-- [GitHub Octoverse 2024](https://github.blog/news-insights/octoverse/octoverse-2024/)
+-----
+
+#### ⭐ Como conquistar o título de **Trabalho Destaque de TI5** (Trabalho Interdisciplinar: Aplicações Distribuídas)
+
+Para que seu grupo conquiste o título de **Trabalho Destaque**, é essencial trabalhar com **entrosamento 🤝**, garantindo que **todos participem ativamente** de todas as etapas — planejamento, arquitetura, desenvolvimento e testes.
+
+O projeto deve apresentar um **caráter inovador 💡**, indo além do básico, e focando em **soluções reais, distribuídas e escaláveis 🎯**.
+
+➡️ É fundamental atender aos critérios técnicos da disciplina:
+
+- 🌐 O sistema deve ser baseado em **Web Services**, atendendo clientes **web e mobile**
+- 📱 O **front-end** deve utilizar tecnologias **móveis e/ou híbridas (multiplataforma)**
+- 🔄 Utilizar **middlewares e mensageria** para comunicação em tempo real
+- 👥 Suportar **múltiplos clientes simultâneos**, com processamento concorrente
+- ⚠️ Implementar **tratamento de erros** (timeouts, falhas, indisponibilidade), incluindo estratégias como **reenvio de mensagens**
+- 🧪 Possuir **estratégias de testes bem definidas**
+- ☁️ O sistema deve utilizar e estar **hospedado na nuvem**, com acesso público via URL
+
+- 🧱 A arquitetura deve ser **bem organizada e escalável**, com:
+  - Separação clara entre **front-end e back-end**
+  - Uso de serviços/APIs quando apropriado
+  - Código limpo, reutilizável e bem estruturado
+  - Uso de **GitHub** com commits frequentes e bem descritos
+
+- 📊 O projeto deve seguir boas práticas de gerenciamento:
+  - Uso do **GitHub Projects (Kanban)**: Product Backlog, Sprint Backlog, Doing e Done
+  - Planejamento de **sprints** e organização do backlog
+  - Participação ativa de todos os membros (com liderança definida)
+
+- 🤝 Caso o projeto tenha um **cliente real**, é **altamente recomendado envolvê-lo** ao longo do desenvolvimento:
+  - Validar requisitos e funcionalidades
+  - Coletar feedback (preferencialmente em vídeo ou depoimento)
+  - Demonstrar o sistema e sua evolução
+  - Se possível, convidá-lo para a apresentação final
+
+- 📑 **README.md completo e bem estruturado**, incluindo:
+  - Descrição do projeto e motivação
+  - Arquitetura do sistema
+  - Tecnologias utilizadas
+  - Instruções de execução
+  - Demonstrações (prints, vídeos, etc.)
+
+- 🧪 A **apresentação final** deve incluir:
+  - O funcionamento do sistema
+  - As decisões de arquitetura
+  - Como a solução resolve o problema proposto
+  - A evolução do sistema ao longo das sprints 🚀
+
+📹 O **vídeo de entrega** e a **apresentação final** são essenciais para destacar seu projeto. Caprichem na **edição**, mostrando de forma clara como era o cenário **antes da implantação do sistema 🕰️** e **como ficou depois 🚀**.
+
+Mostrem que seu sistema é **robusto, bem arquitetado e resolve um problema real**. Boa sorte! 💪
+
+-----
+
+#### 📄 README de projeto:
+
+Esta seção reúne um **template** construído por mim e **exemplos** reais de READMEs para ajudar você a estruturar, documentar e apresentar seus projetos de forma clara, organizada e profissional.
+
+##### 📕 Template de README de projeto:
+
+- :octocat: [Template de README](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/blob/main/TEMPLATES/template_README.md)
+
+##### 📘 Exemplos de README de projeto:
+
+- 🌐 [Tuscan](https://github.com/Berohlfs/BachelorsThesisSoftwareEngineering)
+  - :octocat: [GitHub Bernardo Rohlfs](https://github.com/Berohlfs)
+  - :octocat: [GitHub Eric Jardim](https://github.com/ericgcjardim)
+- 🌐 [Tech Fotebol Clube](https://github.com/ligiabicalho/Tech-Futebol-Clube)
+  - :octocat: [GitHub Lígia Bicalho](https://github.com/ligiabicalho)  
+- 🌐 [FeeduP-Mobile](https://github.com/FeedUp-Hub/FeeduP-Mobile)
+  - :octocat: [GitHub Fernando Santiago](https://github.com/fsaantiago)
 
 -----
 
