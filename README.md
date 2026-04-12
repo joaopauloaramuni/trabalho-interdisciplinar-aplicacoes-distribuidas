@@ -46,7 +46,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📔 [Designing Data-Intensive Applications – Martin Kleppmann](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
   Explora os fundamentos de sistemas que lidam com grandes volumes de dados, incluindo bancos distribuídos, replicação, consistência e processamento de fluxo.
 
-- 📕 [Cloud Native Patterns – Cornelia Davis](https://www.amazon.com.br/Cloud-Native-Patterns-Cornelia-Davis/dp/1617294296)
+- 📕 [Cloud Native Patterns – Cornelia Davis](https://www.amazon.com.br/Cloud-Native-Designing-change-tolerant-software/dp/1617294292)
   Aborda padrões e práticas para construção de aplicações nativas em nuvem, com foco em resiliência, escalabilidade e automação.
 
 - 📂 [awesome-distributed-systems (GitHub)](https://github.com/theanalyst/awesome-distributed-systems)
