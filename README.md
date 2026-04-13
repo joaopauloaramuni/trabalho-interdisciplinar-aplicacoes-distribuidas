@@ -195,14 +195,14 @@ Este é um minicurso de Gerência de Projetos com o Github Projects e o Zenhub.
 ##### Passo 1️⃣
 
 Você deverá preencher o formulário de Autoavaliação da participação. O formulário pode ser acessado pelo link do Office 365:  
-- 📝 [https://forms.office.com/r/EuQK5cmhKNLinks to an external site.](https://forms.office.com/r/EuQK5cmhKNLinks)
+- 📝 [https://forms.office.com/r/EuQK5cmhKN](https://forms.office.com/r/EuQK5cmhKN)
 
 -----
 
 ##### Passo 2️⃣
 
 Você também deverá preencher o formulário de Avaliação dos pares. Você deverá responder o formulário para cada colega integrante do seu grupo. Por exemplo, Se o seu grupo possui 4 integrantes (você e mais 3 colegas), você deverá preencher este formulário 3 vezes. Se o seu colega desistiu da disciplina, você também deve responder o formulário, pois isso é importante para podermos diagnosticar e buscar entender o problema. O formulário pode ser acessado pelo link do Office 365:  
-- 📝 [https://forms.office.com/r/zSixhergBhLinks to an external site.](https://forms.office.com/r/zSixhergBhLinks)
+- 📝 [https://forms.office.com/r/zSixhergBh](https://forms.office.com/r/zSixhergBh)
 
 -----
 
