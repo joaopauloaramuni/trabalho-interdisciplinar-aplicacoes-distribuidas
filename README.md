@@ -206,6 +206,35 @@ Você também deverá preencher o formulário de Avaliação dos pares. Você de
 
 -----
 
+#### ⏰ Cronograma
+
+| Data   | Unidades de Ensino | Pontos |
+|--------|-------------------|--------|
+| 09/02 | Apresentação da disciplina<br>Definição das equipes e da ideia do projeto | N/A |
+| 16/02 | Carnaval – Recesso escolar | - |
+| 23/02 | Sprint 1 / Semana 1 – Definição inicial dos temas<br>Lean Inception - Visão de Produto | N/A |
+| 02/03 | Sprint 1 / Semana 2 – Entrega 1<br>Definição final dos temas<br>Lean Inception | 5 |
+| 09/03 | Sprint 2 / Semana 1 – Arquitetura inicial<br>Documento de Arquitetura (Seções 1–4)<br>Github Classroom<br>Backlogs iniciais | N/A |
+| 16/03 | Sprint 2 / Semana 2 – Atualização da arquitetura<br>Planejamento atualizado | N/A |
+| 23/03 | Sprint 2 / Semana 3 – Entrega 2<br>Termo de Abertura<br>Arquitetura final<br>Planejamento Sprint 3 | 15 |
+| 30/03 | Semana Santa – Recesso | - |
+| 06/04 | Sprint 3 / Semana 1 – Prototipação inicial<br>Wireframes<br>Código parcial | N/A |
+| 13/04 | Sprint 3 / Semana 2 – Entrega 3<br>Protótipos corrigidos<br>EAP<br>Avaliação heurística | 10 |
+| 20/04 | Sprint 4 / Semana 1 – Entrega parcial 1<br>Funcionalidades prioritárias (inicial) | N/A |
+| 27/04 | Sprint 4 / Semana 2 – Entrega parcial 2<br>Funcionalidades corrigidas | N/A |
+| 04/05 | Sprint 4 / Semana 3 – Entrega 4<br>Funcionalidades finalizadas<br>Planejamento Sprint 5 | 15 |
+| 11/05 | Sprint 5 / Semana 1 – Entrega parcial 1<br>Funcionalidades desejáveis (inicial)<br>Testes iniciais | N/A |
+| 18/05 | Sprint 5 / Semana 2 – Entrega parcial 2<br>Correções e testes | N/A |
+| 25/05 | Sprint 5 / Semana 3 – Entrega parcial 3<br>Correções e testes | N/A |
+| 01/06 | Sprint 5 / Semana 4 – Entrega 5<br>Funcionalidades finalizadas<br>Planejamento Sprint 6 | 15 |
+| 08/06 | Sprint 6 / Semana 1 – Avaliação de Arquitetura (ATAM inicial) | N/A |
+| 15/06 | Sprint 6 / Semana 2 – Avaliação de Arquitetura (ATAM) | N/A |
+| 22/06 | Sprint 6 / Semana 3 – Entrega final parcial<br>Arquitetura e código completos | N/A |
+| 29/06 | Sprint 6 / Semana 4 – Entrega Final<br>Arquitetura final<br>Vídeo pitch<br>Relatório final | 40 |
+| 06/07 | Entrega de resultados | - |
+
+-----
+
 ##### 📊 Tendências e pesquisas
 
 ###### 📈 Relatórios e estudos sobre o mercado de tecnologia e comportamento de desenvolvedores  
