@@ -302,7 +302,6 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PPL ES 2026-2 TI5 - SplitHub](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-splithub)
 - [PPL ES 2026-2 TI5 - Nautilus](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-nautilus)
 - [PPL ES 2026-2 TI5 - Tocae](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
-- [PPL ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-grupo-1-reciclo)
 
 ##### 📅 1°Sem 2026:
 - [PPL ES 2026-1 TI5 - Biblioo](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-biblioo)
