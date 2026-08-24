@@ -293,6 +293,8 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 #### 🗓️ Trabalhos de TI5:
 
 ##### 📅 2°Sem 2026:
+
+###### Campus Lourdes:
 - [PPL ES 2026-2 TI5 - UniCarona](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-unicarona)
 - [PPL ES 2026-2 TI5 - RoadMap](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-road-map)
 - [PPL ES 2026-2 TI5 - Routina](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-routina)
@@ -303,7 +305,12 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PPL ES 2026-2 TI5 - Nautilus](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-nautilus)
 - [PPL ES 2026-2 TI5 - Tocae](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
 
+###### Campus Coração Eucarístico:
+
 ##### 📅 1°Sem 2026:
+
+###### Campus Lourdes:
+
 - [PPL ES 2026-1 TI5 - Biblioo](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-biblioo)
    - 🏆 Eleito trabalho destaque de TI5 - 1-2026
    - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-distribuidas/tree/main/CERTIFICADOS/2025-2/2025-2-ti5-0492100-Certificates-best.pdf) de reconhecimento de trabalho destaque 
