@@ -300,14 +300,18 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PPL ES 2026-2 TI5 - MatchSport](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-match-sport)
 - [PPL ES 2026-2 TI5 - PlaySportsFalcao](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-play-sports-falcao)
 - [PPL ES 2026-2 TI5 - SplitHub](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-splithub)
-- [PPL ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-partiu)
-- [PPL ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-agrolink)
+- [PPL ES 2026-2 TI5 - Nautilus](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-nautilus)
+- [PPL ES 2026-2 TI5 - Tocae](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
 - [PPL ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-grupo-1-reciclo)
 
 ##### 📅 1°Sem 2026:
+- [PPL ES 2026-1 TI5 - Biblioo](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-biblioo)
+   - 🏆 Eleito trabalho destaque de TI5 - 1-2026
+   - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-distribuidas/tree/main/CERTIFICADOS/2025-2/2025-2-ti5-0492100-Certificates-best.pdf) de reconhecimento de trabalho destaque 
+   - 📺 [Vídeo no Youtube](https://www.youtube.com/watch?v=6_u7qd5C5Ok)
+   - 🎤 [Apresentação/Slides](https://github.com/user-attachments/files/31393219/Apresentacao_Final.pdf)
 - [PPL ES 2026-1 TI5 - UpFit](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-upfit)
 - [PPL ES 2026-1 TI5 - VoltShare](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-voltshare)
-- [PPL ES 2026-1 TI5 - Biblioo](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-biblioo)
 - [PPL ES 2026-1 TI5 - Queima](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-queima)
 - [PPL ES 2026-1 TI5 - Splitlar](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-splitlar)
 - [PPL ES 2026-1 TI5 - FlyCenter](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-flycenter)
