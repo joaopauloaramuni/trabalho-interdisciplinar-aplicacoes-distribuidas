@@ -11,6 +11,7 @@
 Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 1°Sem 2026
+- 2°Sem 2026
 
 -----
 
@@ -290,6 +291,18 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 -----
 
 #### 🗓️ Trabalhos de TI5:
+
+##### 📅 2°Sem 2026:
+- [PPL ES 2026-2 TI5 - UniCarona](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-unicarona)
+- [PPL ES 2026-2 TI5 - RoadMap](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-road-map)
+- [PPL ES 2026-2 TI5 - Routina](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-routina)
+- [PPL ES 2026-2 TI5 - Psihub](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-psihub)
+- [PPL ES 2026-2 TI5 - MatchSport](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-match-sport)
+- [PPL ES 2026-2 TI5 - PlaySportsFalcao](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-play-sports-falcao)
+- [PPL ES 2026-2 TI5 - SplitHub](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-splithub)
+- [PPL ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-partiu)
+- [PPL ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-agrolink)
+- [PPL ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-grupo-1-reciclo)
 
 ##### 📅 1°Sem 2026:
 - [PPL ES 2026-1 TI5 - UpFit](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-upfit)
