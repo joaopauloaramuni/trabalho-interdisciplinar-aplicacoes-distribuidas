@@ -306,6 +306,15 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PPL ES 2026-2 TI5 - Tocae](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
 
 ###### Campus Coração Eucarístico:
+- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
+- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
+- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
+- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
+- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
+- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
+- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
+- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
+- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
 
 ##### 📅 1°Sem 2026:
 
