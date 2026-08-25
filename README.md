@@ -306,15 +306,15 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PPL ES 2026-2 TI5 - Tocae](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
 
 ###### Campus Coração Eucarístico:
-- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
-- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
-- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
-- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
-- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
-- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
-- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
-- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
-- [PMG ES 2026-2 TI5 - xxx](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-2-ti5-0492100-tocae)
+- [PMG ES 2026-2 TI5 - Ajuda-ai](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-2-ti5-6904100-ajuda-ai)
+- [PMG ES 2026-2 TI5 - UaiPort](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-2-ti5-6904100-uaiport)
+- [PMG ES 2026-2 TI5 - TicketMind](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-2-ti5-6904100-ticket-mind)
+- [PMG ES 2026-2 TI5 - HomeFix](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-2-ti5-6904100-homefix)
+- [PMG ES 2026-2 TI5 - LanShow](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-2-ti5-6904100-lanshow)
+- [PMG ES 2026-2 TI5 - Limity](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-2-ti5-6904100-limity)
+- [PMG ES 2026-2 TI5 - Pulso](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-2-ti5-6904100-pulso)
+- [PMG ES 2026-2 TI5 - Systemops](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-2-ti5-6904100-systemops)
+- [PMG ES 2026-2 TI5 - Le-ai](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-2-ti5-6904100-le-ai)
 
 ##### 📅 1°Sem 2026:
 
