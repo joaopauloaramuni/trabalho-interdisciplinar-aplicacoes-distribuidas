@@ -322,7 +322,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 - [PPL ES 2026-1 TI5 - Biblioo](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-biblioo)
    - 🏆 Eleito trabalho destaque de TI5 - 1-2026
-   - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-distribuidas/tree/main/CERTIFICADOS/2025-2/2025-2-ti5-0492100-Certificates-best.pdf) de reconhecimento de trabalho destaque 
+   - 🏅 [Certificado](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-distribuidas/tree/main/CERTIFICADOS/2026-1/2026-1-ti5-0492100-Certificates-best.pdf) de reconhecimento de trabalho destaque 
    - 📺 [Vídeo no Youtube](https://www.youtube.com/watch?v=6_u7qd5C5Ok)
    - 🎤 [Apresentação/Slides](https://github.com/user-attachments/files/31393219/Apresentacao_Final.pdf)
 - [PPL ES 2026-1 TI5 - UpFit](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2026-1-ti5-0492100-upfit)
