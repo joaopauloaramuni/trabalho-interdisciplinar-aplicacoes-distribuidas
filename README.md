@@ -15,6 +15,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
+<img src="https://joaopauloaramuni.github.io/image/ti5-es-aplicacoes-distribuidas.png" alt="banner"/>
+
+-----
+
 ### Sumário:
 - [Aulas em PDF](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-distribuidas/tree/main/PDF)
 - [Planejamento da disciplina](https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-distribuidas/tree/main/PLANEJAMENTO%20DA%20DISCIPLINA)
